@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "live-redirect",
+  "name": "live-stream-2",
   "builds": [
     { "src": "*.html", "use": "@vercel/static" }
   ],
